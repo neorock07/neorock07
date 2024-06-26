@@ -4,7 +4,7 @@ Perkenalkan nama saya **Eka (Neo)**.<br>
  
 Saya suka main Pes2017 sambil dengerin lagunya Iwan-Fals-Chrisye-DEWA.<br> 
 Saya juga menyukai pemograman terutama tentang Mobile Application, ML serta Data Analytics.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/eka-yulianto-617640222/)ku ya.
+Jika kamu ingin menjagal bersamaku kontaklah [Linkedin](https://www.linkedin.com/in/eka-yulianto-617640222/)ku kawan.
 Juga follow akun Instagram : **@colouring_photojadoel** 
 ### Github Statistic
 <p align="left">
