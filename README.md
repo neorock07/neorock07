@@ -1,20 +1,30 @@
-### Bunga Trotoar 
- 
-Perkenalkan nama saya **Eka (Neo)**.<br>
- 
-Saya suka main Pes2017 sambil dengerin lagunya Iwan-Fals-Chrisye-DEWA.<br> 
-Saya juga menyukai pemograman terutama tentang Mobile Application, ML serta Data Analytics.<br>
-Jika kamu ingin menjagal bersamaku kontaklah [Linkedin](https://www.linkedin.com/in/eka-yulianto-617640222/)ku kawan.
-Juga follow akun Instagram : **@colouring_photojadoel** 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+<p align="left">Eka is a person who has high innovative individual in the field of technology development. His expertise encompasses a wide array of domains, including mobile and web application software, IoT devices, and Machine Learning/Deep Learning. Numerous projects, both personal and freelance, have been successfully completed by him. Eka consistently demonstrates an insatiable desire to continuously learn and adapt to the latest advancements in scientific knowledge. This dedication is fueled by his aspiration to make significant contributions to the progress of science and technology in his nation.</p>
 
-<!---
-neorock07/neorock07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/@neoint" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
