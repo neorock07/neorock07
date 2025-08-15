@@ -27,9 +27,16 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/eka-yulianto-617640222/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a/>
+    
   <a href="https://www.youtube.com/@neoint" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  
+  <a href="https://huggingface.co/manifestasi" target="_blank">
+    <img src="https://cas-bridge.xethub.hf.co/xet-bridge-us/63d3eec885118edc0439bd98/b5b6c9df87c8c406e1f861d53537050e7f0ed7aaee4f7768fe9087ee7db54992?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250815%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250815T135112Z&X-Amz-Expires=3600&X-Amz-Signature=4e5e5b0106894393cf1d649835b37108313fb1a8fd0c41fe0a1175ddf883a088&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=66da99283bc7bd82e34fb066&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&x-id=GetObject&Expires=1755269472&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NTI2OTQ3Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82M2QzZWVjODg1MTE4ZWRjMDQzOWJkOTgvYjViNmM5ZGY4N2M4YzQwNmUxZjg2MWQ1MzUzNzA1MGU3ZjBlZDdhYWVlNGY3NzY4ZmU5MDg3ZWU3ZGI1NDk5MioifV19&Signature=by0xffLQTo3KkW%7Ekgj5KKD5vhg6qzHhxhnVO4FyH49iCljJQzN1PAt1j5SjyHF0ARb2J5AjLc0T90jTomuSivkx7YrdrY8lm3GSMWSHhrGRIig7AADRrAuDRG-1z2aL5F0-gzSw1HkZtZ-miwBF7jdzA-7ZeCdwmmKPTVhNnjHhBNattq2Jk9ff2p4Zf3Lr4aXV2wM-dgwj72FH1RhDK2881o5z-mN1btJ2TqzNfup4ajMdPStt5Rx6u9UvvVKpM57A2Hb9JMlfLI%7EgUFg0qRwOvcsBgHNJ-1pNspVeXcqDwhX3%7EW614YuYss79bhvnhxcwc-Q%7Es3lMkDETaJptctA__&Key-Pair-Id=K2L8F4GPSG1IFC" width="52" height="40" alt="hugging face logo"  />
   </a>
 </div>
 
